@@ -116,8 +116,9 @@ if __name__ == '__main__':
     args = vars(parser.parse_args())
     method = args['method']  # get method from terminal
 
-    data = rename_columns()
+    # data = rename_columns()  # rename columns only first time
     # data.to_csv('data/yz_anket.csv', index=None)  # save csv with renamed column names
+    data = pd.read_csv('data/yz_anket.csv')
     data = mapping(data)
 
     X = data[['gender', 'age', 'work_type']]
@@ -148,4 +149,4 @@ if __name__ == '__main__':
         if fold == 10:
             plot_confusion_matrix(y_test, pred_values)
 
-    # csv_to_text('data/yz_anket_V2.csv', 'data/yz_anket.txt')  # save data as text file
+    # csv_to_text('data/yz_anket.csv', 'data/yz_anket.txt')  # save data as text file

@@ -1,4 +1,4 @@
-time gender age income work love_job marital_status have_pet satisfy_income work_type satisfy_city have_car smoking_or_alcohol horoscope
+Zaman damgası Cinsiyetiniz nedir? Yaşınız nedir? Aylık geliriniz ne kadar? Çalışmıyorsanız, aylık harcayabildiğiniz miktarı düşünebilirsiniz. Çalıştığınız/çalışacağınız sektör nedir? Yaptığınız/yapacağınız işi seviyor musunuz? Medeni haliniz nedir? Evcil hayvanınız var mı? Yaptığınız işe karşılık aldığınız ücretten memnun musunuz? Çalışmıyorsanız, aylık harcayabildiğiniz miktarı düşünebilirsiniz. Çalışma tipiniz nedir? Çalışmıyorsanız, ne olmasını istersiniz? Bulunduğunuz şehrin yaşam koşullarından memnun musunuz? Özel aracınız var mı? Sigara veya alkol kullanıyor musunuz? Burcunuz nedir?
 2022/05/09 6:20:58 ÖS GMT+3 Erkek 18-23 ₺4.000-6.999 Bilişim-Yazılım Evet Bekar Evet Hayır İş yerinde Hayır Evet Evet Yay
 2022/05/09 6:24:39 ÖS GMT+3 Kadın 18-23 ₺400-999 Sosyal Hizmetler Evet Bekar Hayır Hayır İş yerinde Hayır Hayır Evet Oğlak
 2022/05/09 6:25:19 ÖS GMT+3 Kadın 40-49 ₺4.000-6.999 Sosyal Hizmetler Evet Evli Hayır Evet İş yerinde Evet Hayır Hayır Boğa
